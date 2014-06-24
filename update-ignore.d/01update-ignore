@@ -145,6 +145,7 @@ writefile () {
 	ignore "cups/subscriptions.conf"
 	ignore "cups/subscriptions.conf.O"
 	ignore "fake-hwclock.data"
+	ignore "ldap.secret"
 	nl
 	
 	comment "editor temp files"
